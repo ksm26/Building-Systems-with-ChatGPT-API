@@ -1,3 +1,4 @@
+# Reference: https://github.com/Ryota-Kawamura/Building-Systems-with-the-ChatGPT-API/blob/main/utils.py
 import json
 import openai
 from collections import defaultdict
